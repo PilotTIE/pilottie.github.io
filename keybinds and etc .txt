@@ -1,0 +1,8 @@
+Ctrl + S - save
+! + Tab - Emmet
+Shift + Del - Delete current string
+Ctrl + D - Duplicate current string
+<header></header> - Roof
+<nav></nav> - Navigator
+<footer></footer> - Floor
+<span> </span> - Linear tags
