@@ -8,3 +8,52 @@
     font-size: 20px;
     color: blue;
 }
+.arial{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.fontsize40{
+    font-size: 40px;
+}
+.fontsize10{
+    font-size: 10px;
+}
+.italic{
+    font-style: italic;
+}
+.font650{
+    font-weight: 650;
+}
+.fontsize40red{
+    font-style: 40px;
+    color: red;
+}
+.textcenter{
+    text-align: center;
+}
+.nope{
+    text-decoration: line-through;
+}
+.shady{
+    text-shadow: 5px 5px 1px grey;
+}
+.capitol{
+    text-transform: capitalize;
+}
+.ident{
+    text-indent: 50px;
+}
+.lspace{
+    letter-spacing: 5px;
+}
+.ocean{
+    word-spacing: 10px;
+}
+.noenter{
+    white-space: nowrap;
+}
+.workingenter{
+    white-space: normal;
+}
+.lineh{
+    line-height: 40px;
+}
